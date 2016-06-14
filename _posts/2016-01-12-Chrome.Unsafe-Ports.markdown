@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Chrome.Unsafe Ports                                                                                                                       
+date: 2016-01-12 14:46:06+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/37e5b4133984e74323b2 %}                                                                                                           
+

@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Url Get.Js                                                                                                                       
+date: 2015-05-12 11:22:44+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/81b7daa41ed9f09bb981 %}                                                                                                           
+

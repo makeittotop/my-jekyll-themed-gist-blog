@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Tmux.Conf                                                                                                                       
+date: 2015-04-01 14:11:46+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/8d223fdd02b4fcdab9dd %}                                                                                                           
+

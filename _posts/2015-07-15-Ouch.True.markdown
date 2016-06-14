@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Ouch.True                                                                                                                       
+date: 2015-07-15 08:20:19+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/5280510e174463a71648 %}                                                                                                           
+

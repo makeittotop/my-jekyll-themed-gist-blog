@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: X11.Txt                                                                                                                       
+date: 2015-05-14 07:28:52+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/fb77a2cee0a1fe1707cb %}                                                                                                           
+

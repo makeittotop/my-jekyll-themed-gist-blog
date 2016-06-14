@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Inspect.Py                                                                                                                       
+date: 2015-03-31 09:53:14+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/3f586c7ca88e417259b1 %}                                                                                                           
+

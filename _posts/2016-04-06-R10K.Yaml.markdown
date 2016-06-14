@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: R10K.Yaml                                                                                                                       
+date: 2016-04-06 17:17:21+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/b1381e33a981f64a484ebe392667984b %}                                                                                                           
+

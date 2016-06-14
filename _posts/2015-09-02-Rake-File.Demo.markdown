@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Rake File.Demo                                                                                                                       
+date: 2015-09-02 07:03:21+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/0c5f3b6af8f464a9b711 %}                                                                                                           
+

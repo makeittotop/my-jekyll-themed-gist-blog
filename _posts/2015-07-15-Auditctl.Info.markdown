@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Auditctl.Info                                                                                                                       
+date: 2015-07-15 10:55:05+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/f847d459a10ff033422b %}                                                                                                           
+

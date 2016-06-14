@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Ipython.Info                                                                                                                       
+date: 2015-05-25 07:44:04+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/68b1b399b122423493fb %}                                                                                                           
+

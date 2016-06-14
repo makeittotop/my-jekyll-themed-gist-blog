@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Jq.Example                                                                                                                       
+date: 2015-08-23 12:40:12+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/fad91e960a01b958c6d6 %}                                                                                                           
+

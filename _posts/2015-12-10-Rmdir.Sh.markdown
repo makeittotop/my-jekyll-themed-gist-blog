@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Rmdir.Sh                                                                                                                       
+date: 2015-12-10 10:05:07+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/1d17d88e824562b810a1 %}                                                                                                           
+

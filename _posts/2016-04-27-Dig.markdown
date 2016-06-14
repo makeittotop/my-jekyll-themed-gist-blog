@@ -1,0 +1,9 @@
+---
+layout: post                                                                                                              
+title: Dig                                                                                                                       
+date: 2016-04-27 14:54:39+00:00                                                                                                                        
+categories: Linux                                                                                                                
+---                                                                                                                              
+
+{% gist makeittotop/685a3ab5999b67c78f2f89c548ede862 %}                                                                                                           
+
