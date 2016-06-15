@@ -1,0 +1,43 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 15 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+disqus: makeittotop
+google_analytics: makeittotop
+title: Abhishek Pareek
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Abhishek's Blog
+
+description: Abhishek Pareek
+author:
+  name: abhishek pareek
+  email: hello@abhishekpareek.io
+  github: makeittotop
+  twitter: abhishek_pareek
+  pinterest: 
+  linkedin: abhishek-pareek
+  bio: DevOps|AWS|Python|Puppet|Android
+  email_md5: 570de3ad1fd3e50f7c71eb3077cad9a8
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+#sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+exclude: [vendor]  
