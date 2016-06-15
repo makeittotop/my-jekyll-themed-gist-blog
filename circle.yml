@@ -37,9 +37,9 @@ test:
     - script/cibuild 
 
 deployment:
-    aws:
-    branch: master
-        commands: 
+    production:
+      branch: master
+      commands: 
         - script/publish.sh
 
 ## Custom notifications
