@@ -45,9 +45,9 @@ categories: Linux
 
     def file_name(self):                                                                                                          
         if not re.search('gistfile', self.filename, re.IGNORECASE):
-            self.fh = "../_posts/" + str(self.created_at.strftime("%Y-%m-%d")) + "-" + str(self.filename.replace(" ", "-").replace("_", "-")) + ".markdown"
+            self.fh = "_posts/" + str(self.created_at.strftime("%Y-%m-%d")) + "-" + str(self.filename.replace(" ", "-").replace("_", "-")) + ".markdown"
         else:
-            self.fh = "../_posts/" + str(self.created_at.strftime("%Y-%m-%d")) + "-" + str(self.description.replace(" ", "-").replace("_", "-")) + ".markdown"    
+            self.fh = "_posts/" + str(self.created_at.strftime("%Y-%m-%d")) + "-" + str(self.description.replace(" ", "-").replace("_", "-")) + ".markdown"    
 
 for i in range(10):                                                                                                                     
     buffer = StringIO()                                                                                                                 
