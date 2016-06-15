@@ -36,6 +36,13 @@ test:
   override:
     - script/cibuild 
 
+deployment:
+    aws:
+    branch: master
+        commands:
+        #- jekyll build
+        - script/publish.sh
+
 ## Custom notifications
 #notify:
   #webhooks:
