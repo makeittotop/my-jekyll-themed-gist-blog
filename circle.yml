@@ -43,7 +43,7 @@ deployment:
         - script/publish.sh
 
 ## Custom notifications
-notify:
-  webhooks:
+#notify:
+  #webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: $SLACK_HOOK
+    #- url: $SLACK_HOOK
