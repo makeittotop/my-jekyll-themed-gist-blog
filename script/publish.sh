@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 PROFILE=${AWS_PROFILE:-$DEFAULT}
 BUCKET=abhishekpareek.io
 DIR=_site/
