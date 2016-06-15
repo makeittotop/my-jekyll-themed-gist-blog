@@ -18,7 +18,7 @@ machine:
 dependencies:
   pre:
     - gem install bundler
-    - pip install iso8601 json pycurl stringio
+    - pip install iso8601 pycurl 
     - script/fetch-gists-convert-to-jekyll-md-format.py
 
   override:
