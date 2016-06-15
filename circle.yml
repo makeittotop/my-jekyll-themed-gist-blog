@@ -39,7 +39,7 @@ test:
 deployment:
     aws:
     branch: master
-        commands:
+        commands: 
         - script/publish.sh
 
 ## Custom notifications
