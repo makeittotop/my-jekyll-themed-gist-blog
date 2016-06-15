@@ -31,7 +31,7 @@ dependencies:
     #- npm install coffeescript # install from a different package manager
     #- gem uninstall bundler # use a custom version of bundler
     - gem install bundler
-    - apt-get install -y python
+    - sudo apt-get install -y python
 
   override:
     - bundle install: # note ':' here
