@@ -18,6 +18,7 @@ machine:
 dependencies:
   pre:
     - gem install bundler
+    - script/fetch-gists-convert-to-jekyll-md-format.py
 
   override:
     - bundle install: # note ':' here
