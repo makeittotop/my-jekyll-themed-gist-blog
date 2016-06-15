@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Determine External Ip.Linux                                                                                                                       
 date: 2015-11-03 09:49:03+00:00                                                                                                                        
 categories: Linux                                                                                                                

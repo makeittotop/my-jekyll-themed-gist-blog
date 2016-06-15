@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Date Vs Hwclock                                                                                                                       
 date: 2016-04-27 14:54:55+00:00                                                                                                                        
 categories: Linux                                                                                                                

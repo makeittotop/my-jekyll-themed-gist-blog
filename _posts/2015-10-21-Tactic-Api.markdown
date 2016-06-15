@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Tactic Api                                                                                                                       
 date: 2015-10-21 18:22:08+00:00                                                                                                                        
 categories: Linux                                                                                                                

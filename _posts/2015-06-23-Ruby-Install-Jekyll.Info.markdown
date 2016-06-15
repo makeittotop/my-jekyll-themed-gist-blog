@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Ruby Install Jekyll.Info                                                                                                                       
 date: 2015-06-23 13:25:52+00:00                                                                                                                        
 categories: Linux                                                                                                                

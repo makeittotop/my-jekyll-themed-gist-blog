@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Reclaim Lost Git Commits                                                                                                                        
 date: 2016-03-27 13:04:14+00:00                                                                                                                        
 categories: Linux                                                                                                                

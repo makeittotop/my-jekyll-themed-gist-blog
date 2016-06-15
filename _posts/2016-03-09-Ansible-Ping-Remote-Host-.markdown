@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Ansible Ping Remote Host                                                                                                                        
 date: 2016-03-09 11:45:16+00:00                                                                                                                        
 categories: Linux                                                                                                                

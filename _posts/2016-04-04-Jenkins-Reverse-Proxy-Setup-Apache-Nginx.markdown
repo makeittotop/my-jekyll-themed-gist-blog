@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Jenkins Reverse Proxy Setup Apache Nginx                                                                                                                       
 date: 2016-04-04 11:38:17+00:00                                                                                                                        
 categories: Linux                                                                                                                

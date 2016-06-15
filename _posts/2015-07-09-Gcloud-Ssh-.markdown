@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Gcloud Ssh                                                                                                                        
 date: 2015-07-09 12:11:48+00:00                                                                                                                        
 categories: Linux                                                                                                                

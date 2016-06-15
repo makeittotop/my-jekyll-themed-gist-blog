@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Setfacl Getfacl                                                                                                                       
 date: 2015-08-11 10:47:22+00:00                                                                                                                        
 categories: Linux                                                                                                                

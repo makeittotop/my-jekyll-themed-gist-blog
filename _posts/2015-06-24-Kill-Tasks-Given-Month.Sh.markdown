@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Kill Tasks Given Month.Sh                                                                                                                       
 date: 2015-06-24 07:55:55+00:00                                                                                                                        
 categories: Linux                                                                                                                

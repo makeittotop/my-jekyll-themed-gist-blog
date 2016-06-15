@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Celery Chain Tasks                                                                                                                       
 date: 2016-03-15 18:05:17+00:00                                                                                                                        
 categories: Linux                                                                                                                

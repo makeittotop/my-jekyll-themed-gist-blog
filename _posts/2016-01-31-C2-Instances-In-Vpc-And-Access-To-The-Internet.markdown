@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: C2 Instances In Vpc And Access To The Internet                                                                                                                       
 date: 2016-01-31 08:07:50+00:00                                                                                                                        
 categories: Linux                                                                                                                

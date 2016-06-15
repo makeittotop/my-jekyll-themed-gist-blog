@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Tcp Keepalive.Gist                                                                                                                       
 date: 2015-04-01 08:44:33+00:00                                                                                                                        
 categories: Linux                                                                                                                

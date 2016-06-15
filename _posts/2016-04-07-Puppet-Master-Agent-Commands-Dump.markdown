@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Puppet Master Agent Commands Dump                                                                                                                       
 date: 2016-04-07 07:56:47+00:00                                                                                                                        
 categories: Linux                                                                                                                

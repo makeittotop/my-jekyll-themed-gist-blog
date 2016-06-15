@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Python Argparse Optparse                                                                                                                       
 date: 2016-05-12 06:21:21+00:00                                                                                                                        
 categories: Linux                                                                                                                

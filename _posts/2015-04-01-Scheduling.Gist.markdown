@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Scheduling.Gist                                                                                                                       
 date: 2015-04-01 12:13:31+00:00                                                                                                                        
 categories: Linux                                                                                                                

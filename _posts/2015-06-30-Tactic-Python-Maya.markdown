@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Tactic Python Maya                                                                                                                       
 date: 2015-06-30 14:16:27+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Centos7 Hostnamectl Prettynames                                                                                                                       
 date: 2016-04-27 14:21:38+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Android Recommended Image Sizes                                                                                                                       
 date: 2016-05-19 07:55:16+00:00                                                                                                                        
 categories: Linux                                                                                                                

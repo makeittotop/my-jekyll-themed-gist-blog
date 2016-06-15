@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Ansible Provision Sample.Yaml                                                                                                                       
 date: 2015-04-02 06:52:27+00:00                                                                                                                        
 categories: Linux                                                                                                                

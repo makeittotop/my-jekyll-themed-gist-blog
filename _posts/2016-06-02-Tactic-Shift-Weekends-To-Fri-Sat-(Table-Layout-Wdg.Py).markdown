@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Tactic Shift Weekends To Fri Sat (Table Layout Wdg.Py)                                                                                                                       
 date: 2016-06-02 10:23:33+00:00                                                                                                                        
 categories: Linux                                                                                                                

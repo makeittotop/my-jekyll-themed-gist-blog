@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Sparse Files                                                                                                                       
 date: 2016-04-17 14:04:14+00:00                                                                                                                        
 categories: Linux                                                                                                                

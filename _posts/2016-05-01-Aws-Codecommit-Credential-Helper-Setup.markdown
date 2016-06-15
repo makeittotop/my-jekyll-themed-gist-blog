@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Codecommit Credential Helper Setup                                                                                                                       
 date: 2016-05-01 11:20:56+00:00                                                                                                                        
 categories: Linux                                                                                                                

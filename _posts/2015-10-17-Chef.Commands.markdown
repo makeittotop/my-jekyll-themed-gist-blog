@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Chef.Commands                                                                                                                       
 date: 2015-10-17 16:02:36+00:00                                                                                                                        
 categories: Linux                                                                                                                

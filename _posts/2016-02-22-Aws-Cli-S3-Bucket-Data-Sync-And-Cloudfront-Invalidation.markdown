@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Cli S3 Bucket Data Sync And Cloudfront Invalidation                                                                                                                       
 date: 2016-02-22 07:19:40+00:00                                                                                                                        
 categories: Linux                                                                                                                

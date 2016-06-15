@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Download Website.Wget                                                                                                                       
 date: 2015-09-20 09:25:05+00:00                                                                                                                        
 categories: Linux                                                                                                                

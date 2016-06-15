@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Inspect.Py                                                                                                                       
 date: 2015-03-31 09:53:14+00:00                                                                                                                        
 categories: Linux                                                                                                                

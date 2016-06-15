@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Nuke Api Dump.Random                                                                                                                       
 date: 2015-07-06 15:16:18+00:00                                                                                                                        
 categories: Linux                                                                                                                

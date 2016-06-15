@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Nginx Ports.Py                                                                                                                       
 date: 2015-04-01 08:06:41+00:00                                                                                                                        
 categories: Linux                                                                                                                

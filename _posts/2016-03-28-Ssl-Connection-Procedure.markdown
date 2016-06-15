@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Ssl Connection Procedure                                                                                                                       
 date: 2016-03-28 14:03:28+00:00                                                                                                                        
 categories: Linux                                                                                                                

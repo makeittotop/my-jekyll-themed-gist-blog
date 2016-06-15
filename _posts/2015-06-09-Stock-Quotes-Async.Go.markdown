@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Stock Quotes Async.Go                                                                                                                       
 date: 2015-06-09 06:42:42+00:00                                                                                                                        
 categories: Linux                                                                                                                

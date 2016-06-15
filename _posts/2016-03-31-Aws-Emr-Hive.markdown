@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Emr Hive                                                                                                                       
 date: 2016-03-31 10:58:07+00:00                                                                                                                        
 categories: Linux                                                                                                                

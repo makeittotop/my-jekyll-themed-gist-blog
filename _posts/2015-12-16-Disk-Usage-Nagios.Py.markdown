@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Disk Usage Nagios.Py                                                                                                                       
 date: 2015-12-16 16:52:12+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Eb Docker App Deployment Cli                                                                                                                       
 date: 2016-04-19 16:37:55+00:00                                                                                                                        
 categories: Linux                                                                                                                

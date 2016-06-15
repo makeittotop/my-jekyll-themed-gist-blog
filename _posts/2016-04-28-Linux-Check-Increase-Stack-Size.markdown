@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Linux Check Increase Stack Size                                                                                                                       
 date: 2016-04-28 07:48:49+00:00                                                                                                                        
 categories: Linux                                                                                                                

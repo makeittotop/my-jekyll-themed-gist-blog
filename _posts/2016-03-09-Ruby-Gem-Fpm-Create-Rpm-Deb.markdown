@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Ruby Gem Fpm Create Rpm Deb                                                                                                                       
 date: 2016-03-09 09:31:59+00:00                                                                                                                        
 categories: Linux                                                                                                                

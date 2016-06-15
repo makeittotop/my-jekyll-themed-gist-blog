@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Non Blocking Example.Go                                                                                                                       
 date: 2015-03-23 14:44:48+00:00                                                                                                                        
 categories: Linux                                                                                                                

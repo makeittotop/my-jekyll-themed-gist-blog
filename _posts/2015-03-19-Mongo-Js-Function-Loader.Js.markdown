@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Mongo Js Function Loader.Js                                                                                                                       
 date: 2015-03-19 13:47:35+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Complete Uninstall Devstack On Ubuntu 14.04                                                                                                                       
 date: 2016-02-03 07:02:40+00:00                                                                                                                        
 categories: Linux                                                                                                                

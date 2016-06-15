@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Android Nav Drawer Adapter Setup                                                                                                                       
 date: 2016-05-29 08:29:17+00:00                                                                                                                        
 categories: Linux                                                                                                                

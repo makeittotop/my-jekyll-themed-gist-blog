@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Cloudfront Create Invalidation                                                                                                                       
 date: 2016-03-29 16:20:12+00:00                                                                                                                        
 categories: Linux                                                                                                                

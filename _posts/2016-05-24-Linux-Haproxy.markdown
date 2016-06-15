@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Linux Haproxy                                                                                                                       
 date: 2016-05-24 10:44:55+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Nova Cli Create A Vm                                                                                                                       
 date: 2016-02-21 14:40:51+00:00                                                                                                                        
 categories: Linux                                                                                                                

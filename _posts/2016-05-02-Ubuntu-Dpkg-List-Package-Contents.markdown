@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Ubuntu Dpkg List Package Contents                                                                                                                       
 date: 2016-05-02 07:21:30+00:00                                                                                                                        
 categories: Linux                                                                                                                

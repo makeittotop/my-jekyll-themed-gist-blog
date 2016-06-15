@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Geocast Vs Anycast                                                                                                                       
 date: 2015-07-29 08:06:22+00:00                                                                                                                        
 categories: Linux                                                                                                                

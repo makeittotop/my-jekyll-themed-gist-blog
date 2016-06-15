@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Python Regex Greedy Vs Non Greedy.Info                                                                                                                       
 date: 2015-06-10 11:11:34+00:00                                                                                                                        
 categories: Linux                                                                                                                

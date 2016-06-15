@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Python Condition Breakpoints                                                                                                                       
 date: 2016-06-09 09:56:09+00:00                                                                                                                        
 categories: Linux                                                                                                                

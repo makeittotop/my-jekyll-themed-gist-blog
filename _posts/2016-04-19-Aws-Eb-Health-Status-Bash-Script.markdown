@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Eb Health Status Bash Script                                                                                                                       
 date: 2016-04-19 14:55:01+00:00                                                                                                                        
 categories: Linux                                                                                                                

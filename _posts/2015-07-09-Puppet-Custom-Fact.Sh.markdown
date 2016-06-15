@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Puppet Custom Fact.Sh                                                                                                                       
 date: 2015-07-09 14:10:46+00:00                                                                                                                        
 categories: Linux                                                                                                                

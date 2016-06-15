@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Search Replace Files.Py                                                                                                                       
 date: 2015-05-25 14:05:22+00:00                                                                                                                        
 categories: Linux                                                                                                                

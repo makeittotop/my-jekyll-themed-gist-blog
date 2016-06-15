@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Linux Bash Get Ip Country.Sh                                                                                                                       
 date: 2016-05-25 10:52:35+00:00                                                                                                                        
 categories: Linux                                                                                                                

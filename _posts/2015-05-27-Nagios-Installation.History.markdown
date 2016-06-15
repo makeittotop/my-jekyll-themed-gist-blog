@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Nagios Installation.History                                                                                                                       
 date: 2015-05-27 12:05:20+00:00                                                                                                                        
 categories: Linux                                                                                                                

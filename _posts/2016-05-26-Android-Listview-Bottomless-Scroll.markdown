@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Android Listview Bottomless Scroll                                                                                                                       
 date: 2016-05-26 11:40:38+00:00                                                                                                                        
 categories: Linux                                                                                                                

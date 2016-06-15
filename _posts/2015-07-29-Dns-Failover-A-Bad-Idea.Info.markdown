@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Dns Failover A Bad Idea.Info                                                                                                                       
 date: 2015-07-29 07:35:18+00:00                                                                                                                        
 categories: Linux                                                                                                                

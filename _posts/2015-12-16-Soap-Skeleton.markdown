@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Soap Skeleton                                                                                                                       
 date: 2015-12-16 14:42:47+00:00                                                                                                                        
 categories: Linux                                                                                                                

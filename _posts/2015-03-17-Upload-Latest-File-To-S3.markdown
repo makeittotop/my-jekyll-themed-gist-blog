@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Upload Latest File To S3                                                                                                                       
 date: 2015-03-17 15:48:43+00:00                                                                                                                        
 categories: Linux                                                                                                                

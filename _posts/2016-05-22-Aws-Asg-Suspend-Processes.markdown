@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Asg Suspend Processes                                                                                                                       
 date: 2016-05-22 08:03:31+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Lambda Site Health Check                                                                                                                       
 date: 2016-04-21 16:24:55+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Pe Puppetdb Connection                                                                                                                       
 date: 2016-04-03 14:11:56+00:00                                                                                                                        
 categories: Linux                                                                                                                

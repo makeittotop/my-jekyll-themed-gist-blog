@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Python Compress Stream To Gzip And B64 Encode                                                                                                                       
 date: 2016-06-06 04:05:45+00:00                                                                                                                        
 categories: Linux                                                                                                                

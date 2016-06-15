@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Cli Cloudwatch.Usage                                                                                                                       
 date: 2015-08-31 13:15:02+00:00                                                                                                                        
 categories: Linux                                                                                                                

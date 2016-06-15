@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Qt Widget Dyna Add.Py                                                                                                                       
 date: 2015-05-07 13:47:40+00:00                                                                                                                        
 categories: Linux                                                                                                                

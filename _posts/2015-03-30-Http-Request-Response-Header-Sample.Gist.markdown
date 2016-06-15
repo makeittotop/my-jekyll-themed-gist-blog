@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Http Request Response Header Sample.Gist                                                                                                                       
 date: 2015-03-30 13:07:53+00:00                                                                                                                        
 categories: Linux                                                                                                                

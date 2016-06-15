@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Hashicorp Vault Intro                                                                                                                       
 date: 2016-05-11 11:03:04+00:00                                                                                                                        
 categories: Linux                                                                                                                

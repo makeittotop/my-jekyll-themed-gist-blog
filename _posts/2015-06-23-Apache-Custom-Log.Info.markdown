@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Apache Custom Log.Info                                                                                                                       
 date: 2015-06-23 10:43:55+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Azure Storage Cli                                                                                                                       
 date: 2016-03-30 10:14:51+00:00                                                                                                                        
 categories: Linux                                                                                                                

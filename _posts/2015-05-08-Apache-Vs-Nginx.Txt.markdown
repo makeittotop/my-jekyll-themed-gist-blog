@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Apache Vs Nginx.Txt                                                                                                                       
 date: 2015-05-08 15:54:37+00:00                                                                                                                        
 categories: Linux                                                                                                                

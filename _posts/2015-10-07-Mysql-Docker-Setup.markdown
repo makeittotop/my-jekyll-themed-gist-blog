@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Mysql Docker Setup                                                                                                                       
 date: 2015-10-07 12:06:12+00:00                                                                                                                        
 categories: Linux                                                                                                                

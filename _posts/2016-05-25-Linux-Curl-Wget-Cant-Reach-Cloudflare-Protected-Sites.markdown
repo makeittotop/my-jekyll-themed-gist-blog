@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Linux Curl Wget Cant Reach Cloudflare Protected Sites                                                                                                                       
 date: 2016-05-25 07:53:32+00:00                                                                                                                        
 categories: Linux                                                                                                                

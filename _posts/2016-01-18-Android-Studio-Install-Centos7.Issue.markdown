@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Android Studio Install Centos7.Issue                                                                                                                       
 date: 2016-01-18 15:00:30+00:00                                                                                                                        
 categories: Linux                                                                                                                

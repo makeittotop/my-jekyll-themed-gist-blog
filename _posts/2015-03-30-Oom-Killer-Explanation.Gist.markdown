@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Oom Killer Explanation.Gist                                                                                                                       
 date: 2015-03-30 07:24:44+00:00                                                                                                                        
 categories: Linux                                                                                                                

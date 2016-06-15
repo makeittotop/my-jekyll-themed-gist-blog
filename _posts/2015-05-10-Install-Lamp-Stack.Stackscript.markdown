@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Install Lamp Stack.Stackscript                                                                                                                       
 date: 2015-05-10 06:36:14+00:00                                                                                                                        
 categories: Linux                                                                                                                

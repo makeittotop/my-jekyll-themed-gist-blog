@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Cloudformation Apache Server Template                                                                                                                       
 date: 2016-03-31 09:06:22+00:00                                                                                                                        
 categories: Linux                                                                                                                

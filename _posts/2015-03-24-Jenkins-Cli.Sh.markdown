@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Jenkins Cli.Sh                                                                                                                       
 date: 2015-03-24 16:30:28+00:00                                                                                                                        
 categories: Linux                                                                                                                

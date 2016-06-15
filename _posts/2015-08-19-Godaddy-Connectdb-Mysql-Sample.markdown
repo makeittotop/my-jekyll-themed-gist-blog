@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Godaddy Connectdb Mysql Sample                                                                                                                       
 date: 2015-08-19 07:16:33+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Htop.Usage                                                                                                                       
 date: 2015-05-06 12:44:47+00:00                                                                                                                        
 categories: Linux                                                                                                                

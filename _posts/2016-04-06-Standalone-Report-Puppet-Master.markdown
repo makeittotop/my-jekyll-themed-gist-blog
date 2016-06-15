@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Standalone Report Puppet Master                                                                                                                       
 date: 2016-04-06 17:23:02+00:00                                                                                                                        
 categories: Linux                                                                                                                

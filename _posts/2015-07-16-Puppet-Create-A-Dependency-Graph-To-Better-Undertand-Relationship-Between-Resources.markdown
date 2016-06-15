@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Puppet Create A Dependency Graph To Better Undertand Relationship Between Resources                                                                                                                       
 date: 2015-07-16 10:36:05+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Install Chef Server Centos.Info                                                                                                                       
 date: 2015-07-28 14:44:49+00:00                                                                                                                        
 categories: Linux                                                                                                                

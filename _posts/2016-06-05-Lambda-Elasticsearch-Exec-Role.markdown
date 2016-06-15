@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Lambda Elasticsearch Exec Role                                                                                                                       
 date: 2016-06-05 07:50:03+00:00                                                                                                                        
 categories: Linux                                                                                                                

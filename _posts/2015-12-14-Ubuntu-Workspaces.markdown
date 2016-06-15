@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Ubuntu Workspaces                                                                                                                       
 date: 2015-12-14 15:26:02+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Puppet Codemanager                                                                                                                       
 date: 2016-05-28 20:12:15+00:00                                                                                                                        
 categories: Linux                                                                                                                

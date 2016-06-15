@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: List Dir Contents Test.Go                                                                                                                       
 date: 2015-05-06 12:18:32+00:00                                                                                                                        
 categories: Linux                                                                                                                

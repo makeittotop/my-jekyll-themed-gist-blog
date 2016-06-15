@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Firefox Addon Confirm Security Exception Bug.Info                                                                                                                       
 date: 2015-05-30 09:21:34+00:00                                                                                                                        
 categories: Linux                                                                                                                

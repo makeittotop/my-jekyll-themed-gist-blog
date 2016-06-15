@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Linux Ssh Mfa                                                                                                                       
 date: 2016-05-02 07:34:57+00:00                                                                                                                        
 categories: Linux                                                                                                                

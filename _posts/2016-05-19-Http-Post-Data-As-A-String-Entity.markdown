@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Http Post Data As A String Entity                                                                                                                       
 date: 2016-05-19 11:08:41+00:00                                                                                                                        
 categories: Linux                                                                                                                

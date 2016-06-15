@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Aws Codedeploy Appspec Sample                                                                                                                       
 date: 2016-05-01 16:59:48+00:00                                                                                                                        
 categories: Linux                                                                                                                

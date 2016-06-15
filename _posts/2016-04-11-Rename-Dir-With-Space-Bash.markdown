@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Rename Dir With Space Bash                                                                                                                       
 date: 2016-04-11 11:11:18+00:00                                                                                                                        
 categories: Linux                                                                                                                

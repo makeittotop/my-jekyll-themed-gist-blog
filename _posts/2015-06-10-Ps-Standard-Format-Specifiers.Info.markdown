@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Ps Standard Format Specifiers.Info                                                                                                                       
 date: 2015-06-10 08:02:44+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Create Droplet.Py                                                                                                                       
 date: 2015-03-18 09:38:06+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: post                                                                                                              
+layout: default                                                                                                              
 title: Etc Puppet Environments Production Manifests Nodes.Pp                                                                                                                       
 date: 2015-05-17 11:22:26+00:00                                                                                                                        
 categories: Linux                                                                                                                
