@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Apache Memory Usage Per Process Total                                                                                                                       
 date: 2016-03-30 10:13:20+00:00                                                                                                                        
 categories: Linux                                                                                                                

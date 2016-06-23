@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Create Self Signed Sslcert Apache.Info                                                                                                                       
 date: 2015-06-16 12:32:35+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Butterknife.Android                                                                                                                       
 date: 2016-01-26 07:43:10+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Webform Auth.Curl                                                                                                                       
 date: 2015-09-07 07:51:25+00:00                                                                                                                        
 categories: Linux                                                                                                                

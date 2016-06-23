@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Rrs Sample Event Worker Script                                                                                                                       
 date: 2016-04-19 09:43:26+00:00                                                                                                                        
 categories: Linux                                                                                                                

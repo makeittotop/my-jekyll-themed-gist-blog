@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Django Create User.Gist                                                                                                                       
 date: 2015-03-30 09:58:35+00:00                                                                                                                        
 categories: Linux                                                                                                                

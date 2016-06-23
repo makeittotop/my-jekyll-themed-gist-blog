@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Puppet Anchor Pattern Vs Containment                                                                                                                       
 date: 2016-03-28 07:20:52+00:00                                                                                                                        
 categories: Linux                                                                                                                

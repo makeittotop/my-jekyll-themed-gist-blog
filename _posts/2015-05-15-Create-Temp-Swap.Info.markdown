@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Create Temp Swap.Info                                                                                                                       
 date: 2015-05-15 14:53:25+00:00                                                                                                                        
 categories: Linux                                                                                                                

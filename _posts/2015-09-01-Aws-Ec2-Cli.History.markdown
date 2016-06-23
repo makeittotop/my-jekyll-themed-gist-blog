@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Ec2 Cli.History                                                                                                                       
 date: 2015-09-01 10:32:23+00:00                                                                                                                        
 categories: Linux                                                                                                                

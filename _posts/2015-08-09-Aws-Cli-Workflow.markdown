@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Cli Workflow                                                                                                                       
 date: 2015-08-09 14:59:41+00:00                                                                                                                        
 categories: Linux                                                                                                                

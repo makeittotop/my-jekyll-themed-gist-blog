@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Tmux Attach.Sh                                                                                                                       
 date: 2015-07-14 11:34:54+00:00                                                                                                                        
 categories: Linux                                                                                                                

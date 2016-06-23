@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Puppet Comands.Sh                                                                                                                       
 date: 2015-05-17 11:53:25+00:00                                                                                                                        
 categories: Linux                                                                                                                

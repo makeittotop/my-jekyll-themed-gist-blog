@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Linux Nginx Reverse Proxy                                                                                                                       
 date: 2016-05-24 10:48:35+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Rds Load Balancer                                                                                                                        
 date: 2016-03-08 11:26:33+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws S3 Fuse S3Fs S3Backer                                                                                                                       
 date: 2016-05-24 09:26:23+00:00                                                                                                                        
 categories: Linux                                                                                                                

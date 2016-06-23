@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Chrome Storage.Js                                                                                                                       
 date: 2015-05-17 18:28:50+00:00                                                                                                                        
 categories: Linux                                                                                                                

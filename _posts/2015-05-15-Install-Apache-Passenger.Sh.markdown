@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Install Apache Passenger.Sh                                                                                                                       
 date: 2015-05-15 14:52:24+00:00                                                                                                                        
 categories: Linux                                                                                                                

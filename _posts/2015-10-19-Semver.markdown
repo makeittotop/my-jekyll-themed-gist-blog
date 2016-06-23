@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Semver                                                                                                                       
 date: 2015-10-19 14:32:14+00:00                                                                                                                        
 categories: Linux                                                                                                                

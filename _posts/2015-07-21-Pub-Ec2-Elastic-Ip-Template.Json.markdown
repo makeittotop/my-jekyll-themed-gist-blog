@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Pub Ec2 Elastic Ip Template.Json                                                                                                                       
 date: 2015-07-21 12:54:44+00:00                                                                                                                        
 categories: Linux                                                                                                                

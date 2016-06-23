@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Mongo Cursor Iterate.Js                                                                                                                       
 date: 2015-03-19 14:00:27+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Youtube Vid.Html                                                                                                                       
 date: 2015-12-16 10:09:12+00:00                                                                                                                        
 categories: Linux                                                                                                                

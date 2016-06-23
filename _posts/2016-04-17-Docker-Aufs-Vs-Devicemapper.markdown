@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Docker Aufs Vs Devicemapper                                                                                                                       
 date: 2016-04-17 13:07:32+00:00                                                                                                                        
 categories: Linux                                                                                                                

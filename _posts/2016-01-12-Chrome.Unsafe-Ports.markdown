@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Chrome.Unsafe Ports                                                                                                                       
 date: 2016-01-12 14:46:06+00:00                                                                                                                        
 categories: Linux                                                                                                                

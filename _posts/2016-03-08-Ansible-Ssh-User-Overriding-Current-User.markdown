@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Ansible Ssh User Overriding Current User                                                                                                                       
 date: 2016-03-08 17:57:39+00:00                                                                                                                        
 categories: Linux                                                                                                                

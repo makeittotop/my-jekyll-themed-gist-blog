@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws S3 Create Unsigned Signed Url                                                                                                                       
 date: 2016-04-19 13:11:22+00:00                                                                                                                        
 categories: Linux                                                                                                                

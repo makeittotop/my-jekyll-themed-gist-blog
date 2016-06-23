@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Wordpress To Jekyll                                                                                                                       
 date: 2016-06-08 10:06:01+00:00                                                                                                                        
 categories: Linux                                                                                                                

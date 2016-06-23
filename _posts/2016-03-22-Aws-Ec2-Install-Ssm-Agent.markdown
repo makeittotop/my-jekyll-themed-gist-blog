@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Ec2 Install Ssm Agent                                                                                                                       
 date: 2016-03-22 12:04:03+00:00                                                                                                                        
 categories: Linux                                                                                                                

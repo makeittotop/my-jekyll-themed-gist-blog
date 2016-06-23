@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Linux Find Pipe Max Size (Found Online Not Mine)                                                                                                                       
 date: 2016-04-28 07:28:04+00:00                                                                                                                        
 categories: Linux                                                                                                                

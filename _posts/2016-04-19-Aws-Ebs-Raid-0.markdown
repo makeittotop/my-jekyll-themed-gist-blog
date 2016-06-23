@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Ebs Raid 0                                                                                                                       
 date: 2016-04-19 11:35:58+00:00                                                                                                                        
 categories: Linux                                                                                                                

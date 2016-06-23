@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Subprocess.Mac                                                                                                                       
 date: 2015-08-31 12:52:23+00:00                                                                                                                        
 categories: Linux                                                                                                                

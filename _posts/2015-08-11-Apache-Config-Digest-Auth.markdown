@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Apache Config Digest Auth                                                                                                                       
 date: 2015-08-11 07:57:05+00:00                                                                                                                        
 categories: Linux                                                                                                                

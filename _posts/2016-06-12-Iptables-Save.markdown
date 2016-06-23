@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Iptables Save                                                                                                                       
 date: 2016-06-12 10:03:11+00:00                                                                                                                        
 categories: Linux                                                                                                                

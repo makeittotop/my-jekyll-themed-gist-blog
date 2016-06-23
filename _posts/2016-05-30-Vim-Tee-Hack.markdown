@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Vim Tee Hack                                                                                                                       
 date: 2016-05-30 07:21:33+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Render Time Per User Per Month.Py                                                                                                                       
 date: 2015-05-06 06:24:35+00:00                                                                                                                        
 categories: Linux                                                                                                                

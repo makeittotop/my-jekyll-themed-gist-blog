@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Elasticsearch Cluster Status                                                                                                                       
 date: 2016-06-05 08:00:24+00:00                                                                                                                        
 categories: Linux                                                                                                                

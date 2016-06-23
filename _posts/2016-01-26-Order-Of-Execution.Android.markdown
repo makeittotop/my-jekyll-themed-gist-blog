@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Order Of Execution.Android                                                                                                                       
 date: 2016-01-26 10:05:57+00:00                                                                                                                        
 categories: Linux                                                                                                                

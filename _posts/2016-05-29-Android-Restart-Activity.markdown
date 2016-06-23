@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Android Restart Activity                                                                                                                       
 date: 2016-05-29 13:56:08+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Run Docker Daemon.Gist                                                                                                                       
 date: 2015-04-02 13:56:02+00:00                                                                                                                        
 categories: Linux                                                                                                                

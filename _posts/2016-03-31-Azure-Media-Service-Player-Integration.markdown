@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Azure Media Service Player Integration                                                                                                                       
 date: 2016-03-31 13:05:29+00:00                                                                                                                        
 categories: Linux                                                                                                                

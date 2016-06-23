@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Ec2 Apache Xmlrpc Dos Attack                                                                                                                       
 date: 2016-05-25 07:20:16+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Wordpress.Htaccess                                                                                                                       
 date: 2015-08-31 07:52:01+00:00                                                                                                                        
 categories: Linux                                                                                                                

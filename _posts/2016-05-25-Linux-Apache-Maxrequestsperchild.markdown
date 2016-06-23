@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Linux Apache Maxrequestsperchild                                                                                                                       
 date: 2016-05-25 15:43:21+00:00                                                                                                                        
 categories: Linux                                                                                                                

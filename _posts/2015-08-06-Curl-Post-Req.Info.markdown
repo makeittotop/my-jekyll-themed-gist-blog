@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Curl Post Req.Info                                                                                                                       
 date: 2015-08-06 08:51:35+00:00                                                                                                                        
 categories: Linux                                                                                                                

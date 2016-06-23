@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Tactic| Expressions Example                                                                                                                       
 date: 2016-03-15 12:18:46+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Cloudfront Ssl Cert.Upload                                                                                                                       
 date: 2015-10-06 15:35:18+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Devstack Localrc From Linuxacademy                                                                                                                       
 date: 2016-02-02 13:13:20+00:00                                                                                                                        
 categories: Linux                                                                                                                

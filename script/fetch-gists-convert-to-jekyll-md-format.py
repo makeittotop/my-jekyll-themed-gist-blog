@@ -23,7 +23,7 @@ class MyData(object):
       self.description=d.get('description').encode('utf-8').title()                                                                               
       self.filename=d.get('files').keys()[0].encode('utf-8').title()                                                                              
     _matter= '''---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: {0}                                                                                                                       
 date: {1}                                                                                                                        
 categories: Linux                                                                                                                

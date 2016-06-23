@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Tcp Connection State.Gist                                                                                                                       
 date: 2015-04-01 09:12:09+00:00                                                                                                                        
 categories: Linux                                                                                                                

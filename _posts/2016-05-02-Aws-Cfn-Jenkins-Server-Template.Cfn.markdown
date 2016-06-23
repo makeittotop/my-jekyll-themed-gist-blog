@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Cfn Jenkins Server Template.Cfn                                                                                                                       
 date: 2016-05-02 06:56:35+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Tractor Undelete Job.Py                                                                                                                       
 date: 2015-04-08 11:25:31+00:00                                                                                                                        
 categories: Linux                                                                                                                

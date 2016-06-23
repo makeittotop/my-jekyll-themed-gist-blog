@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Ec2 Replace Lost Ssh Key                                                                                                                       
 date: 2016-03-23 06:55:10+00:00                                                                                                                        
 categories: Linux                                                                                                                

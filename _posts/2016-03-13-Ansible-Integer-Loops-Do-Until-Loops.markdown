@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Ansible Integer Loops Do Until Loops                                                                                                                       
 date: 2016-03-13 08:06:03+00:00                                                                                                                        
 categories: Linux                                                                                                                

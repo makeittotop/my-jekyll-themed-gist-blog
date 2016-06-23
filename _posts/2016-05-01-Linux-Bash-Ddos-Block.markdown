@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Linux Bash Ddos Block                                                                                                                       
 date: 2016-05-01 20:23:17+00:00                                                                                                                        
 categories: Linux                                                                                                                

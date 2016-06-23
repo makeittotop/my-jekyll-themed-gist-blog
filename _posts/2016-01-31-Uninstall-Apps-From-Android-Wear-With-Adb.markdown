@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Uninstall Apps From Android Wear With Adb                                                                                                                       
 date: 2016-01-31 12:11:53+00:00                                                                                                                        
 categories: Linux                                                                                                                

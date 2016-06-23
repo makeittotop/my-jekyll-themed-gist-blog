@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Ansible Commands.Sh                                                                                                                       
 date: 2015-05-18 10:36:01+00:00                                                                                                                        
 categories: Linux                                                                                                                

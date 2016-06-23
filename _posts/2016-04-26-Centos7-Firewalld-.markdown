@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Centos7 Firewalld                                                                                                                        
 date: 2016-04-26 15:19:07+00:00                                                                                                                        
 categories: Linux                                                                                                                

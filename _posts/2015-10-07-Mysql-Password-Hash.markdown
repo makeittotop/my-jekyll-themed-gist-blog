@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Mysql Password Hash                                                                                                                       
 date: 2015-10-07 11:54:55+00:00                                                                                                                        
 categories: Linux                                                                                                                

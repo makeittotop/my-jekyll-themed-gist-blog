@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Mco Puppet Run                                                                                                                       
 date: 2016-04-07 09:51:47+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Basic Auth.Apache                                                                                                                       
 date: 2015-05-10 11:22:51+00:00                                                                                                                        
 categories: Linux                                                                                                                

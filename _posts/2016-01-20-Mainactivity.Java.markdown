@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Mainactivity.Java                                                                                                                       
 date: 2016-01-20 14:27:40+00:00                                                                                                                        
 categories: Linux                                                                                                                

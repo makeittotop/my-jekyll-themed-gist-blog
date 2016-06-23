@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Ansible Basic Comands.Gist                                                                                                                       
 date: 2015-03-30 17:03:24+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: X11.Txt                                                                                                                       
 date: 2015-05-14 07:28:52+00:00                                                                                                                        
 categories: Linux                                                                                                                

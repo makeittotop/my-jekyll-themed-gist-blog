@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Puppet Module Guide                                                                                                                       
 date: 2016-03-28 07:48:59+00:00                                                                                                                        
 categories: Linux                                                                                                                

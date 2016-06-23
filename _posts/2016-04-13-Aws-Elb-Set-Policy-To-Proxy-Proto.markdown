@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Aws Elb Set Policy To Proxy Proto                                                                                                                       
 date: 2016-04-13 15:56:28+00:00                                                                                                                        
 categories: Linux                                                                                                                

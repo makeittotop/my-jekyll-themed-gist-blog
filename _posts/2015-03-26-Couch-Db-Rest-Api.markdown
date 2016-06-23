@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Couch Db Rest Api                                                                                                                       
 date: 2015-03-26 13:51:46+00:00                                                                                                                        
 categories: Linux                                                                                                                

@@ -1,5 +1,5 @@
 ---
-layout: default                                                                                                              
+layout: post                                                                                                              
 title: Goog Cloud Storage List Bucket Contents.Py                                                                                                                       
 date: 2015-03-23 12:47:23+00:00                                                                                                                        
 categories: Linux                                                                                                                
